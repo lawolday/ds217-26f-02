@@ -1,0 +1,4 @@
+Cutoff: 160 mmHg
+Reason: I chose 160 mmHg because I want to focus on patients with higher readings who may need follow-up sooner.
+P011
+P018
